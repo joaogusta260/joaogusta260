@@ -32,7 +32,7 @@
 ## 🌟 Repositórios em Destaque
 Aqui estão alguns dos projetos que demonstram minhas habilidades em automação e integração:
 
-1. **[n8n-pós-operatorio-agente-IA](https://github.com/joaogusta260/n8n-pos-operatorio-agente-IA)**  
+1. **[n8n-pós-operatorio-agente-IA]([(https://github.com/joaogusta260/n8n-pos-operatorio-agente-IA)]**  
    _Fluxo completo para atendimento de pós-operatório de clínica de cirurgia plástica, integrando OpenAI, Redis, e mais._
 
 2. **[Integraçao-Asaas-n8n-BotConversa](https://github.com/joaogusta260/Integracao-Asaas-n8n-BotConversa)**  
@@ -44,7 +44,7 @@ Aqui estão alguns dos projetos que demonstram minhas habilidades em automação
 4. **[VALOR-DA-BITCOIN-AUTOMATICO](https://github.com/joaogusta260/VALOR-DA-BITCOIN-AUTOMATICO)**  
    _Verificação periódica do valor do Bitcoin (via API da Binance) e envio automático via WhatsApp._
 
-5. **[Resumidor-de-Conversas--IA-para-Grupo-com-n8n](https://github.com/joaogusta260/Resumidor-de-Conversas--IA-para-Grupo-com-n8n)**  
+5. **[Resumidor-de-Conversas--IA-para-Grupo-com-n8n](https://github.com/joaogusta260/Resumidor-de-Conversas-Diarias-no-Grupo-com-IA)**  
    _Fluxo que gera resumo diário das conversas de um grupo do WhatsApp usando IA, enviando um “digest” no final do dia._
 
 6. **[[CRIAÇÃO-DE-VIDEO-AUTO-COM-IA-n8n](https://github.com/joaogusta260/CRIACAO-DE-VIDEO-AUTO-COM-IA-N8N)]**  
