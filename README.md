@@ -47,7 +47,7 @@ Aqui estão alguns dos projetos que demonstram minhas habilidades em automação
 5. **[Resumidor-de-Conversas--IA-para-Grupo-com-n8n](https://github.com/joaogusta260/Resumidor-de-Conversas--IA-para-Grupo-com-n8n)**  
    _Fluxo que gera resumo diário das conversas de um grupo do WhatsApp usando IA, enviando um “digest” no final do dia._
 
-6. **[CRIAÇÃO-DE-VIDEO-AUTO-COM-IA-n8n](https://github.com/joaogusta260/CRIA%C3%87%C3%83O-DE-VIDEO-AUTO-COM-IA-n8n)**  
+6. **[[CRIAÇÃO-DE-VIDEO-AUTO-COM-IA-n8n](https://github.com/joaogusta260/CRIACAO-DE-VIDEO-AUTO-COM-IA-N8N)]**  
    _Pipeline de geração de vídeo 100% via IA (texto, áudio, imagens), usando n8n, Leonardo.ai, ElevenLabs e Shotstack._
 
 ---
