@@ -25,7 +25,7 @@
 - **Idade**: 19 anos  
 - **Formação**: Conclusão do Ensino Médio (2023)  
 - **Principais habilidades**: Automação de processos com n8n, integrações via API, Chatbots (BotConversa), IA (OpenAI, LangChain)  
-- **Ferramentas**: n8n, Make, Asaas, chatbots, Git/GitHub, agent IA, Apis, CRM e muito Mais.
+- **Ferramentas**: n8n, Make, Asaas, chatbots, Git/GitHub, agent IA, Apis, CRM, Banco de dados e muito Mais.
 
 ---
 
